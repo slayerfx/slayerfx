@@ -27,10 +27,8 @@
 ---
 
 <div align="center">
-  <h3>🔗 Me contacter</h3>
   <br />
   <a href="https://www.linkedin.com/in/louenn-penanc-hoat-a49774216/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="60" height="60"/>
   </a>
-  &nbsp;&nbsp; 
 </div>

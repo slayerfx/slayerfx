@@ -32,8 +32,5 @@
   <a href="https://www.linkedin.com/in/louenn-penanc-hoat-a49774216/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="50" height="50"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:louenn.p@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50"/>
-  </a>
+  &nbsp;&nbsp; 
 </div>

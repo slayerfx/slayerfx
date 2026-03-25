@@ -1,8 +1,7 @@
 <div align="center">
   <h1>👋 Hi, I am Louenn</h1>
-  <p>Student at <strong>3W Academy</strong> to become a full-stack developer</p>
-  
-  <p>🔍 À la recherche d'un <strong>stage de 2 mois</strong> (du 11 mai au 24 juillet 2026)</p>
+  <p>Student at <strong>3W Academy</strong> to become a full-stack developer</p>  
+
 </div>
 
 ---

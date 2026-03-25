@@ -7,11 +7,7 @@
 
 <div align="center">
   <h3>My Skills</h3>
-</div>
-
-<hr />
-
-<div align="center">
+  <img width="100%" height="1" src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1" alt="" />
   <br />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
@@ -27,11 +23,7 @@
 
 <div align="center">
   <h3>Contact me</h3>
-</div>
-
-<hr />
-
-<div align="center">
+  <img width="100%" height="1" src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1" alt="" />
   <br />
   <a href="https://www.linkedin.com/in/louenn-penanc-hoat-a49774216/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:louenn.p@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>

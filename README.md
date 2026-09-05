@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I am Louenn</h1>
-  <p>Student at <strong>3W Academy</strong> to become a full-stack developer</p>  
+  <p>full-stack developer</p>  
 </div>
 <hr />
 <div align="center">

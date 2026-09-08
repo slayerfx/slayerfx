@@ -37,10 +37,11 @@ Most of it went into **[PhpProject](https://github.com/PHPOffice/PhpProject)**
   job, samples execution check, code coverage, Dependabot.
 - **Documentation migrated** from Sphinx to MkDocs, then to ProperDocs.
 
-The rest went to [PHPPresentation](https://github.com/PHPOffice/PHPPresentation)
-(1.4k ★, 3 PRs — coverage under PHPUnit 10+, minimum version raised, a version
-guard on `imagedestroy()`), [Common](https://github.com/PHPOffice/Common) (3 —
-PHPStan up to level 7, PHPStan 2.x support, PHP 8.5 in the CI matrix),
-[PHPWord](https://github.com/PHPOffice/PHPWord) (2 — PHP 8.5 support, a PHPUnit
-constraint fixing the test suite) and [Math](https://github.com/PHPOffice/Math)
-(1 — PHP 8.5 in the CI matrix).
+The remaining nine went to the other four libraries:
+
+| Project | PRs | Contributions |
+|---|---|---|
+| [PHPPresentation](https://github.com/PHPOffice/PHPPresentation) · 1.4k ★ | 3 | Coverage under PHPUnit 10+, minimum PHP version raised, version guard on `imagedestroy()` |
+| [Common](https://github.com/PHPOffice/Common) | 3 | PHPStan up to level 7, PHPStan 2.x support, PHP 8.5 in the CI matrix |
+| [PHPWord](https://github.com/PHPOffice/PHPWord) | 2 | PHP 8.5 support, PHPUnit constraint fixing the test suite |
+| [Math](https://github.com/PHPOffice/Math) | 1 | PHP 8.5 in the CI matrix |

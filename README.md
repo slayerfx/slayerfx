@@ -3,8 +3,8 @@
 Full stack developer.
 
 I work mostly in PHP and Python. I contribute to the
-[PHPOffice](https://github.com/PHPOffice) libraries — static analysis, continuous
-integration, file reader fixes — and I build my own tools when nothing out there
+[PHPOffice](https://github.com/PHPOffice) libraries — file format support, static
+analysis and CI — and I build my own tools when nothing out there
 does quite what I need.
 
 ## Projects

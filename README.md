@@ -1,6 +1,6 @@
 # Louenn Penanc'hoat
 
-Full stack developer, based in Rennes, France.
+Full stack developer.
 
 I work mostly in PHP and Python. I contribute to the
 [PHPOffice](https://github.com/PHPOffice) libraries — static analysis, continuous

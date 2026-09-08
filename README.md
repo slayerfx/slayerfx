@@ -1,6 +1,5 @@
 <div align="center">
   <h1>👋 Hi, I am Louenn</h1>
-  <p>full stack developer</p>
 </div>
 
 <hr />

@@ -1,8 +1,6 @@
 <div align="center">
-  <h1>👋 Hi, I am Louenn</h1>
+  <h1>Louenn Penanc'hoat</h1>
 </div>
-
-<hr />
 
 ## Projects
 

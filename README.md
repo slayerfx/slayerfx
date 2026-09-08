@@ -1,6 +1,11 @@
-<div align="center">
-  <h1>Louenn Penanc'hoat</h1>
-</div>
+# Louenn Penanc'hoat
+
+Full stack developer, based in Rennes, France.
+
+I work mostly in PHP and Python. I contribute to the
+[PHPOffice](https://github.com/PHPOffice) libraries — static analysis, continuous
+integration, file reader fixes — and I build my own tools when nothing out there
+does quite what I need.
 
 ## Projects
 

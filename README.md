@@ -7,6 +7,8 @@ I work mostly in PHP and Python. I contribute to the
 analysis and CI — and I build my own tools when nothing out there
 does quite what I need.
 
+**Portfolio → [slayerfx.github.io](https://slayerfx.github.io)**
+
 ## Projects
 
 ### [OneMoreRep](https://github.com/slayerfx/onemorerep) · [live demo](https://onemorerep.infinityfree.io)
@@ -14,6 +16,12 @@ does quite what I need.
 Strength training site in PHP 8: exercise library, custom workout programs and a
 daily energy expenditure calculator (Mifflin-St Jeor). MVC architecture written
 without a framework, MySQL through PDO with prepared statements, PHPUnit tests.
+
+### [Portfolio](https://slayerfx.github.io) · [source](https://github.com/slayerfx/slayerfx.github.io)
+
+One hand-written page — HTML, CSS and JavaScript, no framework, no build step,
+nothing loaded from a CDN. 182 kB, scores 100 across every Lighthouse category,
+and a CI that checks markup validity, those scores and dead links on every push.
 
 ### [SoundGrab](https://github.com/slayerfx/soundgrab)
 

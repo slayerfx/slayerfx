@@ -26,8 +26,14 @@ linting, CI on Windows and Linux.
 ### [Portfolio](https://slayerfx.github.io) · [source](https://github.com/slayerfx/slayerfx.github.io)
 
 One hand-written page — HTML, CSS and JavaScript, no framework, no build step,
-nothing loaded from a CDN. 182 kB, scores 100 across every Lighthouse category,
-and a CI that checks markup validity, those scores and dead links on every push.
+nothing loaded from a CDN. Bilingual, light and dark themes, three self-hosted
+variable typefaces, and a perfect 100 across every Lighthouse category.
+
+Every push is checked four ways: markup validity, Lighthouse scores, dead links,
+and contrast ratios. That last one is a dependency-free script written for this site —
+Lighthouse audits one theme at a time, and emulating the dark one meant pulling in
+219 packages for a site that has none. The script caught a real defect Lighthouse
+had missed: a grey at 4.48 against a 4.5 threshold.
 
 ## Open source
 
